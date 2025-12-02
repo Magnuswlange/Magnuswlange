@@ -16,6 +16,8 @@ Engineering skills:
 - Simulation and optimization
 - Prototyping
 - Additive manufacturing
+- Data science and analytics
+- IoT devices
 
 Networking and homelabbing skills:
 - Docker
