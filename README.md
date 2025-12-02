@@ -1,4 +1,24 @@
-## Hi there 👋
+## Who am I?
+Hi, I'm Magnus, Danish engineer.
+
+## Current project
+I'm currently doing the freeCodeCamp full stack developer course available at https://freecodecamp.com
+
+## Tools/skills
+Software skills:
+- Web dev (HTMl, CSS, JS)
+- Embedded firmware (C, C++, Arduino framework, ESP-IDF)
+- Python
+- C#
+
+Engineering skills:
+- CAD
+- Simulation and optimization
+- Prototyping
+- Additive manufacturing
+
+## Contact
+email
 
 <!--
 **Magnuswlange/Magnuswlange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
