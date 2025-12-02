@@ -17,6 +17,12 @@ Engineering skills:
 - Prototyping
 - Additive manufacturing
 
+Networking and homelabbing skills:
+- Docker
+- Linux
+- Deployment
+- Hosting
+
 ## Contact
 email
 
